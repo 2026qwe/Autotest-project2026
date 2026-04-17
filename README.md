@@ -1,5 +1,4 @@
 # Autotest project
-# Autotest project
 一、被测系统原始信息
 框架：ThinkPHP 5
 
